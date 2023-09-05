@@ -1,0 +1,227 @@
+*{
+padding: 0%;
+margin: 0;
+box-sizing: border-box;
+font-family: sans-serif
+}
+.section1{
+background-image:url(../processed-6818f421-628e-4c85-865e-1f81f3ae50b9_F23ZHCac.jpeg) ;
+height: 100vh;
+background-size: cover;
+
+}
+.section1 nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 80px;
+width: 100%;
+}
+.section1 nav h1{
+color: white;
+padding-left: 60px;
+font-size: 40px;
+}
+.section1 nav ul li{
+list-style-type: none;
+margin: 30px;
+
+}
+.section1 nav h1 span{
+color: #f9004d;
+}
+.section1 nav ul{
+    display: flex;
+}
+.section1 nav ul li a{
+text-decoration: none;
+font-size: 20px;
+color: white;
+}
+.section1 nav ul li a:hover{
+color: #f9004d;   
+}
+.section1 nav button{
+background-color: #f9004d;
+color: white;
+border-radius: 20px;
+padding: 15px 20px;
+margin-right: 80px;
+}
+.section1 nav button:hover{
+background-color: black;
+border: #f9004d 3px solid;
+
+}
+.section1 .section1-ahmed{
+padding-left: 60px;
+padding-top: 150px;
+
+}
+.section1 .section1-ahmed h3{
+color: #fcfcfc;
+padding-bottom: 20px;
+}
+.section1 .section1-ahmed h1{
+color: white;
+padding-bottom: 20px;
+    font-size: 70px;
+}
+.section1 .section1-ahmed h2{
+padding-bottom: 40px;
+
+color: white;
+}
+.section1 .section1-ahmed h1 span{
+color: #f9004d;
+}
+.section1 .section1-ahmed form input{
+border: 3px solid #f9004d;
+padding: 10px 80px;
+border-radius: 40px;
+}
+.section2{
+padding: 20px;
+color: aliceblue;
+background-color: black;
+display: flex;
+align-items: center;
+}
+.section2 .section2-img img{
+height: 500px;
+width: 400px;
+padding-left: 60px;
+}
+.section2 .section2-content{
+padding-left: 150px;   
+}
+.section2 .section2-content h1{
+color: white;
+padding-bottom: 20px;
+font-size: 60px;
+
+}
+.section2 .section2-content h2{
+color: white;
+padding-bottom: 20px;
+font-size: 20px;
+}
+.section2 .section2-content h2 span{
+color: #f9004d;
+
+
+}
+.section2 .section2-content p{
+font-size: 16px;
+width: 600px;
+line-height: 1.6;
+padding-bottom: 20px;
+color: #fcfc;
+}
+.section2 .section2-content button{
+background-color: #f9004d;
+color: white;
+border-radius: 20px;
+padding: 15px 30px;
+margin-right: 80px;
+font-size: 15px;
+border: none;
+}
+.section2 .section2-content button:hover{
+background-color: black;
+border: #f9004d -10px 3px 3px solid;
+
+}
+.section3{
+background-color: black;
+padding: 50px 0;
+
+}
+.section3 h1{
+text-align: center;
+color: aliceblue;
+font-size: 70px;
+margin-bottom: 20px;
+}
+.section3 .section3-content{
+display: flex;
+margin: 50px;
+}
+.section3 .section3-content .section3-text{
+background-color: #191919;
+text-align: center;
+padding: 30px;
+margin: 30px;
+border-radius: 20px;
+}
+.section3 .section3-content .section3-text h2{
+color: white;
+margin-bottom: 20px;
+font-size: 25px;
+}
+.section3 .section3-content .section3-text p{
+color: #fcfc;
+margin-bottom: 20px;
+line-height: 1.9;
+
+}
+.section3 .section3-content .section3-text button{
+background-color: #f9004d;
+color: white;
+border-radius: 20px;
+padding: 10px 20px;
+font-size: 13px;
+border: none;
+}
+.section3 .section3-content .section3-text button:hover{
+background-color: black;
+ border: #f9004d 3px solid;
+
+
+}
+.section4{
+background-color: black;
+height: 350px;
+text-align: center;
+}
+.section4 h1{
+color: white;
+padding-top: 130px;
+padding-bottom: 20px;
+font-size: 20px;
+}
+.section4 button{
+background-color: #f9004d;
+color: white;
+padding: 10px 20px;
+border-radius: 20px;
+}
+.section4 button:hover{
+background-color: black;
+border: #f9004d 2px solid;
+
+}
+
+
+.section5{
+background-color: black;
+height: 250px;
+text-align: center;
+
+}
+.section5 h1{
+padding-top: 100px;
+padding-bottom: 20px;
+color: white;
+}
+.section5 p{
+color: white;
+
+padding-bottom: 20px;
+
+}
+.section5 h2{
+color: #f9004d;
+
+
+}
